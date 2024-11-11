@@ -1,5 +1,5 @@
 ﻿#start-osd cloud
-#used command: Edit-OSDCloudWinPE -Add7Zip -PSModuleInstall AzureAD, WindowsAutopilotIntune -Starturl "https://raw.githubusercontent.com/MikeFeith/Interstellar-OSD/refs/heads/main/Emergis/starturl.ps1" -wallpaper "C:\temp\emergis.jpg" -clouddriver HP,IntelNet
+#used command: Edit-OSDCloudWinPE -Add7Zip -PSModuleInstall AzureAD, WindowsAutopilotIntune -Starturl "https://raw.githubusercontent.com/JelleKruithof93/Dignis_Project/refs/heads/main/Dignis-Starturl.ps1" -wallpaper "C:\temp\emergis.jpg" -clouddriver HP,IntelNet
 
 #=======================================================================
 #   OSDCLOUD Definitions
